@@ -1,0 +1,66 @@
+col major
+90
+For file "/comp/40/bin/images/large/mobo.ppm":
+    Image has width 6120 and height 8160
+    Width * height = 49939200
+    Recorded time: 5721181639.000000 nanoseconds
+    Time per input pixel: 114.562941 nanoseconds
+
+180
+For file "/comp/40/bin/images/large/mobo.ppm":
+    Image has width 8160 and height 6120
+    Width * height = 49939200
+    Recorded time: 8704931258.000000 nanoseconds
+    Time per input pixel: 174.310587 nanoseconds
+
+270
+For file "/comp/40/bin/images/large/mobo.ppm":
+    Image has width 6120 and height 8160
+    Width * height = 49939200
+    Recorded time: 5556111213.000000 nanoseconds
+    Time per input pixel: 111.257513 nanoseconds
+
+rowmajor
+90
+For file "/comp/40/bin/images/large/mobo.ppm":
+    Image has width 6120 and height 8160
+    Width * height = 49939200
+    Recorded time: 5031919480.000000 nanoseconds
+    Time per input pixel: 100.760915 nanoseconds
+
+180
+For file "/comp/40/bin/images/large/mobo.ppm":
+    Image has width 8160 and height 6120
+    Width * height = 49939200
+    Recorded time: 2473550314.000000 nanoseconds
+    Time per input pixel: 49.531236 nanoseconds
+
+270
+For file "/comp/40/bin/images/large/mobo.ppm":
+    Image has width 6120 and height 8160
+    Width * height = 49939200
+    Recorded time: 5052589520.000000 nanoseconds
+    Time per input pixel: 101.174819 nanoseconds
+
+block-major
+90
+For file "/comp/40/bin/images/large/mobo.ppm":
+    Image has width 6120 and height 8160
+    Width * height = 49939200
+    Recorded time: 3886025527.000000 nanoseconds
+    Time per input pixel: 77.815134 nanoseconds
+
+180
+For file "/comp/40/bin/images/large/mobo.ppm":
+    Image has width 8160 and height 6120
+    Width * height = 49939200
+    Recorded time: 3729348650.000000 nanoseconds
+    Time per input pixel: 74.677781 nanoseconds
+
+270
+For file "/comp/40/bin/images/large/mobo.ppm":
+    Image has width 6120 and height 8160
+    Width * height = 49939200
+    Recorded time: 3500363892.000000 nanoseconds
+    Time per input pixel: 70.092510 nanoseconds
+

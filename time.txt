@@ -1,0 +1,126 @@
+For file "extra/flowers.ppm":
+    Image has width 101 and height 180
+    Width * height = 18180
+    Recorded time: 819171.000000 nanoseconds
+    Time per input pixel: 45.058911 nanoseconds
+
+For file "extra/flowers.ppm":
+    Image has width 101 and height 180
+    Width * height = 18180
+    Recorded time: 1075321.000000 nanoseconds
+    Time per input pixel: 59.148570 nanoseconds
+
+For file "extra/flowers.ppm":
+    Image has width 180 and height 101
+    Width * height = 18180
+    Recorded time: 1462.000000 nanoseconds
+    Time per input pixel: 0.080418 nanoseconds
+
+For file "extra/flowers.ppm":
+    Image has width 101 and height 180
+    Width * height = 18180
+    Recorded time: 804025.000000 nanoseconds
+    Time per input pixel: 44.225798 nanoseconds
+
+For file "extra/flowers.ppm":
+    Image has width 180 and height 101
+    Width * height = 18180
+    Recorded time: 8127.000000 nanoseconds
+    Time per input pixel: 0.447030 nanoseconds
+
+For file "extra/flowers.ppm":
+    Image has width 101 and height 180
+    Width * height = 18180
+    Recorded time: 982948.000000 nanoseconds
+    Time per input pixel: 54.067547 nanoseconds
+
+For file "extra/flowers.ppm":
+    Image has width 180 and height 101
+    Width * height = 18180
+    Recorded time: 1064802.000000 nanoseconds
+    Time per input pixel: 58.569967 nanoseconds
+
+For file "extra/flowers.ppm":
+    Image has width 101 and height 180
+    Width * height = 18180
+    Recorded time: 931530.000000 nanoseconds
+    Time per input pixel: 51.239274 nanoseconds
+
+For file "extra/flowers.ppm":
+    Image has width 180 and height 101
+    Width * height = 18180
+    Recorded time: 1519.000000 nanoseconds
+    Time per input pixel: 0.083553 nanoseconds
+
+For file "extra/flowers.ppm":
+    Image has width 101 and height 180
+    Width * height = 18180
+    Recorded time: 1378086.000000 nanoseconds
+    Time per input pixel: 75.802310 nanoseconds
+
+For file "extra/flowers.ppm":
+    Image has width 180 and height 101
+    Width * height = 18180
+    Recorded time: 1486930.000000 nanoseconds
+    Time per input pixel: 81.789329 nanoseconds
+
+For file "extra/flowers.ppm":
+    Image has width 101 and height 180
+    Width * height = 18180
+    Recorded time: 1362502.000000 nanoseconds
+    Time per input pixel: 74.945105 nanoseconds
+
+For file "extra/flowers.ppm":
+    Image has width 101 and height 180
+    Width * height = 18180
+    Recorded time: 676020.000000 nanoseconds
+    Time per input pixel: 37.184818 nanoseconds
+
+For file "extra/flowers.ppm":
+    Image has width 101 and height 180
+    Width * height = 18180
+    Recorded time: 1256578.000000 nanoseconds
+    Time per input pixel: 69.118702 nanoseconds
+
+For file "extra/flowers.ppm":
+    Image has width 101 and height 180
+    Width * height = 18180
+    Recorded time: 796169.000000 nanoseconds
+    Time per input pixel: 43.793674 nanoseconds
+
+For file "extra/flowers.ppm":
+    Image has width 180 and height 101
+    Width * height = 18180
+    Recorded time: 817709.000000 nanoseconds
+    Time per input pixel: 44.978493 nanoseconds
+
+For file "extra/flowers.ppm":
+    Image has width 180 and height 101
+    Width * height = 18180
+    Recorded time: 1356035.000000 nanoseconds
+    Time per input pixel: 74.589384 nanoseconds
+
+For file "extra/flowers.ppm":
+    Image has width 180 and height 101
+    Width * height = 18180
+    Recorded time: 953268.000000 nanoseconds
+    Time per input pixel: 52.434983 nanoseconds
+
+For file "extra/flowers.ppm":
+    Image has width 180 and height 101
+    Width * height = 18180
+    Recorded time: 797642.000000 nanoseconds
+    Time per input pixel: 43.874697 nanoseconds
+
+For file "extra/flowers.ppm":
+    Image has width 180 and height 101
+    Width * height = 18180
+    Recorded time: 1348201.000000 nanoseconds
+    Time per input pixel: 74.158471 nanoseconds
+
+For file "extra/flowers.ppm":
+    Image has width 180 and height 101
+    Width * height = 18180
+    Recorded time: 955541.000000 nanoseconds
+    Time per input pixel: 52.560011 nanoseconds
+

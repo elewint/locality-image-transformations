@@ -1,0 +1,63 @@
+col major 90
+For file "from-wind-cave.ppm":
+    Input image had width 2290 and height 4080
+    Width * height = 9343200
+    Recorded time: 782331079.000000 nanoseconds
+    Time per input pixel: 83.732670 nanoseconds
+
+180
+For file "from-wind-cave.ppm":
+    Input image had width 4080 and height 2290
+    Width * height = 9343200
+    Recorded time: 1342361963.000000 nanoseconds
+    Time per input pixel: 143.672614 nanoseconds
+
+270
+For file "from-wind-cave.ppm":
+    Input image had width 2290 and height 4080
+    Width * height = 9343200
+    Recorded time: 803209412.000000 nanoseconds
+    Time per input pixel: 85.967272 nanoseconds
+
+rowmajor 90
+For file "from-wind-cave.ppm":
+    Input image had width 2290 and height 4080
+    Width * height = 9343200
+    Recorded time: 763326935.000000 nanoseconds
+    Time per input pixel: 81.698662 nanoseconds
+
+180
+For file "from-wind-cave.ppm":
+    Input image had width 4080 and height 2290
+    Width * height = 9343200
+    Recorded time: 465540437.000000 nanoseconds
+    Time per input pixel: 49.826659 nanoseconds
+
+270
+For file "from-wind-cave.ppm":
+    Input image had width 2290 and height 4080
+    Width * height = 9343200
+    Recorded time: 755893893.000000 nanoseconds
+    Time per input pixel: 80.903105 nanoseconds
+
+block major 90
+For file "from-wind-cave.ppm":
+    Input image had width 2290 and height 4080
+    Width * height = 9343200
+    Recorded time: 695525463.000000 nanoseconds
+    Time per input pixel: 74.441890 nanoseconds
+
+180
+For file "from-wind-cave.ppm":
+    Input image had width 4080 and height 2290
+    Width * height = 9343200
+    Recorded time: 709867048.000000 nanoseconds
+    Time per input pixel: 75.976865 nanoseconds
+
+270
+For file "from-wind-cave.ppm":
+    Input image had width 2290 and height 4080
+    Width * height = 9343200
+    Recorded time: 661248325.000000 nanoseconds
+    Time per input pixel: 70.773217 nanoseconds
+
