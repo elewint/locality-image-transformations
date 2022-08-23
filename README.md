@@ -89,5 +89,7 @@ source image and destination image are both processed in block-major
 order. This grants block-major mapping a greater cache hit ratio than
 the other mapping methods.
 
+---
+
 Time spent on project:
     36 hrs as of submission
